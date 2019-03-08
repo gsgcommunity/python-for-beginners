@@ -1,7 +1,22 @@
-# Python for beginners
+# Python para quem nunca programou
 
-A Comunidade Girls Support Girls, convidou meninas de todas as áreas à participarem do evento "Introdução a Programação para Iniciantes", com objetivo de introduzir conceitos de programação à meninas que possuem interesse na área da computação. 
+Esse repo contém o material para execução de workshop sobre Introdução à Programação com a Linguagem Python.
 
-Esse repo contém o material que faz parte do Módulo I, do curso ministrado para garotas que não estão diretamente vinculadas a cursos da área da tecnologia. 
+### Objetivos: 
+* Apresentar um panorama da participação das mulheres na tecnologia
+* Apresentar coceitos inicias de programação
 
-Uma abordagem da importância da mulher na computação ao longo dos anos, e uma introdução à programação em python (não sendo exigido nenhum conhecimento prévio de linguagens ou lógica de programação).
+### Público-alvo:
+Pessoas sem experiência em programação. Não é recomendado para quem sabe outra linguagem e deseja aprender especificamente Pyhton.
+
+### Duração
+Apresentação do panorama das mulheres na computação + Python: Mínimo de 6h
+Apenas o notebook de python: de 2h a 4h
+Considere que a quantidade de pessoas aumenta as dúvidas e o tempo necessário
+
+### Preparação
+Todas as máquinas precisam de Python 3 e Jupyter Notebok ou equivalente
+
+
+*Realizações do workshop*
+* 
