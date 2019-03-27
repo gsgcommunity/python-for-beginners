@@ -15,8 +15,7 @@ Apenas o notebook de python: de 2h a 4h
 Considere que a quantidade de pessoas aumenta as dúvidas e o tempo necessário
 
 ### Preparação
-Todas as máquinas precisam de Python 3 e Jupyter Notebok ou equivalente
-
+Todas as máquinas precisam de Python 3 e Jupyter Notebok ou equivalente. Uma opção é intalar a Distribuição Anaconda Python, disponível para sistemas linux e windons, em que o Jupyter Notebooks vem integrado: Download >> [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
 *Realizações do workshop*
 * 
